@@ -36,7 +36,7 @@ const MOP = () => {
                 Netbanking
               </h2>
               <p className="text-gray-500 text-sm">
-                Select form a list of banks
+                Select form a list of bank
               </p>
             </div>
           </div>
